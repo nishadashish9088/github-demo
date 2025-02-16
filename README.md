@@ -1,4 +1,4 @@
 # github-demo
 This is my first git repository.
 <br/>
-Author - Ashish nishad
+Author - Ashish  (Coder)
